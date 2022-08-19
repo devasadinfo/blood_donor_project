@@ -21,12 +21,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      // home: spalashScreen(),
-      // home: HomePage(),
-      // home: RegistrationData(),
-      // home: DonorData(),
-      // home: DrawerData(),
-      // home: AccountData(),
       home: spalashScreen(),
     );
   }
